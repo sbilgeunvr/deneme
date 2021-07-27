@@ -12,6 +12,9 @@ namespace deneme
             Console.WriteLine("hello world 2 !!");
 
             Console.WriteLine("helloo");
+            Console.WriteLine("worldd");
+
+
         }
     }
 }
