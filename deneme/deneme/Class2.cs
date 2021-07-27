@@ -10,6 +10,8 @@ namespace deneme
         {
             Console.WriteLine("hello world!!");
             Console.WriteLine("hello world 2 !!");
+
+            Console.WriteLine("helloo");
         }
     }
 }
