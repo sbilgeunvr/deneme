@@ -9,6 +9,7 @@ namespace deneme
         public void deneme()
         {
             Console.WriteLine("hello world!!");
+            Console.WriteLine("hello world 2 !!");
         }
     }
 }
