@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gHyJYoIU5g1zgatDukJSLo6R6c6R1oHPKG0eXRUDhH4Diqsl/XmJm+AbVc56MVyyfv4siwrmm7wzK5lFKTTh3g==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\CASPER\\Desktop\\deneme\\deneme\\console\\console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CASPER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

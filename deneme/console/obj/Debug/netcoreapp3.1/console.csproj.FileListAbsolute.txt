@@ -1,0 +1,16 @@
+D:\Users\CASPER\Desktop\deneme\deneme\console\bin\Debug\netcoreapp3.1\console.exe
+D:\Users\CASPER\Desktop\deneme\deneme\console\bin\Debug\netcoreapp3.1\console.deps.json
+D:\Users\CASPER\Desktop\deneme\deneme\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.json
+D:\Users\CASPER\Desktop\deneme\deneme\console\bin\Debug\netcoreapp3.1\console.runtimeconfig.dev.json
+D:\Users\CASPER\Desktop\deneme\deneme\console\bin\Debug\netcoreapp3.1\console.dll
+D:\Users\CASPER\Desktop\deneme\deneme\console\bin\Debug\netcoreapp3.1\console.pdb
+D:\Users\CASPER\Desktop\deneme\deneme\console\bin\Debug\netcoreapp3.1\deneme.dll
+D:\Users\CASPER\Desktop\deneme\deneme\console\bin\Debug\netcoreapp3.1\deneme.pdb
+D:\Users\CASPER\Desktop\deneme\deneme\console\obj\Debug\netcoreapp3.1\console.csprojAssemblyReference.cache
+D:\Users\CASPER\Desktop\deneme\deneme\console\obj\Debug\netcoreapp3.1\console.AssemblyInfoInputs.cache
+D:\Users\CASPER\Desktop\deneme\deneme\console\obj\Debug\netcoreapp3.1\console.AssemblyInfo.cs
+D:\Users\CASPER\Desktop\deneme\deneme\console\obj\Debug\netcoreapp3.1\console.csproj.CoreCompileInputs.cache
+D:\Users\CASPER\Desktop\deneme\deneme\console\obj\Debug\netcoreapp3.1\console.csproj.CopyComplete
+D:\Users\CASPER\Desktop\deneme\deneme\console\obj\Debug\netcoreapp3.1\console.dll
+D:\Users\CASPER\Desktop\deneme\deneme\console\obj\Debug\netcoreapp3.1\console.pdb
+D:\Users\CASPER\Desktop\deneme\deneme\console\obj\Debug\netcoreapp3.1\console.genruntimeconfig.cache
