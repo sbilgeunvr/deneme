@@ -7,6 +7,7 @@ namespace deneme
        public void deneme()
         {
             Console.WriteLine("hello world!!");
+            Console.WriteLine("seydabilge");
         }
     }
 }

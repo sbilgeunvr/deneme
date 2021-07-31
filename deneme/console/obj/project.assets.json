@@ -27,23 +27,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CASPER\\.nuget\\packages\\": {},
+    "C:\\Users\\Seyda\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\CASPER\\Desktop\\deneme\\deneme\\console\\console.csproj",
+      "projectUniqueName": "C:\\GitTest\\deneme\\deneme\\console\\console.csproj",
       "projectName": "console",
-      "projectPath": "D:\\Users\\CASPER\\Desktop\\deneme\\deneme\\console\\console.csproj",
-      "packagesPath": "C:\\Users\\CASPER\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\CASPER\\Desktop\\deneme\\deneme\\console\\obj\\",
+      "projectPath": "C:\\GitTest\\deneme\\deneme\\console\\console.csproj",
+      "packagesPath": "C:\\Users\\Seyda\\.nuget\\packages\\",
+      "outputPath": "C:\\GitTest\\deneme\\deneme\\console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\CASPER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Seyda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,8 +60,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Users\\CASPER\\Desktop\\deneme\\deneme\\deneme\\deneme.csproj": {
-              "projectPath": "D:\\Users\\CASPER\\Desktop\\deneme\\deneme\\deneme\\deneme.csproj"
+            "C:\\GitTest\\deneme\\deneme\\deneme\\deneme.csproj": {
+              "projectPath": "C:\\GitTest\\deneme\\deneme\\deneme\\deneme.csproj"
             }
           }
         }
@@ -82,18 +85,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.13, 3.1.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }

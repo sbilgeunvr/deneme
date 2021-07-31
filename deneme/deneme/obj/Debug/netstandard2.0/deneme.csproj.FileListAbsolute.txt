@@ -7,3 +7,9 @@ D:\Users\CASPER\Desktop\deneme\deneme\deneme\obj\Debug\netstandard2.0\deneme.Ass
 D:\Users\CASPER\Desktop\deneme\deneme\deneme\obj\Debug\netstandard2.0\deneme.csproj.CoreCompileInputs.cache
 D:\Users\CASPER\Desktop\deneme\deneme\deneme\obj\Debug\netstandard2.0\deneme.dll
 D:\Users\CASPER\Desktop\deneme\deneme\deneme\obj\Debug\netstandard2.0\deneme.pdb
+C:\GitTest\deneme\deneme\deneme\obj\Debug\netstandard2.0\deneme.csprojAssemblyReference.cache
+C:\GitTest\deneme\deneme\deneme\obj\Debug\netstandard2.0\deneme.AssemblyInfoInputs.cache
+C:\GitTest\deneme\deneme\deneme\obj\Debug\netstandard2.0\deneme.AssemblyInfo.cs
+C:\GitTest\deneme\deneme\deneme\obj\Debug\netstandard2.0\deneme.csproj.CoreCompileInputs.cache
+C:\GitTest\deneme\deneme\deneme\obj\Debug\netstandard2.0\deneme.dll
+C:\GitTest\deneme\deneme\deneme\obj\Debug\netstandard2.0\deneme.pdb
