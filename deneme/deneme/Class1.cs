@@ -8,6 +8,7 @@ namespace deneme
         {
             Console.WriteLine("hello world!!");
             Console.WriteLine("seydabilge");
+            Console.WriteLine("denemedeneme");
         }
     }
 }
